@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @lyndsielane
-- 👀 I’m interested in lots of fandoms, music, and books. 
-- 🌱 I’m currently learning how to be a full stack developer.
-- 💞️ I’m looking to collaborate on learning about coding, especially on the front-end.
+- 👋  Hi, I’m @lyndsielane! I’m studying to be a full stack developer with a passion for the user experience. 
+- 👀  I'm a lover of books, music, and too many fandoms to count!
+- 🌱  I'm also a hoarder of plants. 
+- 🐶 I have 3 dogs and want for more (got tell my husband I need more, please).
+- ☮ I'm a hippie Hufflepuff that hopes for peace and unity for all beings!
 
 <!---
 lyndsielane/lyndsielane is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
