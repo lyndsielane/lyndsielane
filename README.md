@@ -3,6 +3,7 @@
 - 🌱  I'm also a hoarder of plants. 
 - 🐶 I have 3 dogs and want more (go tell my husband I need more, please).
 - ☮ I'm a hippie Hufflepuff that hopes for peace and unity for all beings!
+- 🧘‍♀️ I have a passion for yoga and aim to practice once daily (at a minumum).
 
 <!---
 lyndsielane/lyndsielane is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
